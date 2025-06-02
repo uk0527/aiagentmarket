@@ -1,0 +1,11 @@
+Metadata-Version: 2.2
+Name: ai-agent-marketplace
+Version: 1.0.0
+Requires-Dist: fastapi
+Requires-Dist: uvicorn
+Requires-Dist: sqlalchemy
+Requires-Dist: pydantic
+Requires-Dist: python-jose[cryptography]
+Requires-Dist: passlib[bcrypt]
+Requires-Dist: python-multipart
+Dynamic: requires-dist
